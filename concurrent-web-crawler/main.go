@@ -140,7 +140,7 @@ func main() {
 	defer rateLimiter.Stop()
 
 	// Start with a seed URL
-	seedURL := "https://www.google.com/"
+	seedURL := "https://www.zorwink.in/"
 	var err error
 
 	// Parse the seed URL and set it as the base domain
